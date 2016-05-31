@@ -1,0 +1,7 @@
+/bin/*
+**/CMakeFiles
+**/*.o
+**/*.cmake
+**/CMakeCache.*
+/src/**/Makefile
+/Unix/*
